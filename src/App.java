@@ -7,6 +7,7 @@ public class App {
 		System.out.println("마스터2");
 		System.out.println("마스터3");
 		System.out.println("branch1");
+		System.out.println("실행2");
 	}
 
 }
